@@ -1,6 +1,6 @@
 # Dasboar Layout - Getting Started
 
-A compact Blazor WebAssembly sample demonstrating how to build an interactive dashboard layout using Blazor components (Dashboard Layout, Grid, Charts, Themes).
+A compact Blazor WebAssembly sample demonstrating how to build an interactive [Blazor Dashboard Layout](https://blazor.syncfusion.com/documentation/dashboard-layout/getting-started) using Blazor components (Dashboard Layout, Grid, Charts, Themes).
 
 ## Overview
 
